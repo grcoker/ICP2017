@@ -1,4 +1,1 @@
-# ICP2017
-# ICP2017
-# ICP2017
-# ICP2017
+Name: Grayson CokerUT EID: grc695Email: graysoncoker@utexas.eduDepartment: Department of Aerospace EngineeringUniversity: The University of Texas at Austin
