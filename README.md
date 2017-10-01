@@ -10,7 +10,7 @@
 **Course Webpage:** <http://www.shahmoradi.org/ICP2017F/>
 **Photo:**
 
-![Grayson Coker](https://www.facebook.com/photo.php?fbid=10208261271555612&set=t.1589960204&type=3&theater)
+!(https://www.facebook.com/photo.php?fbid=10208261271555612&set=t.1589960204&type=3&theater)
 
 * **[homework](#homework):** 
 This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
