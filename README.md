@@ -1,6 +1,6 @@
 # ICP2017 - Introduction to Computer Programming (Fall 2017)
 <br>
-**Name: \<Grayson Coker>
+**Name:** Grayson Coker
 <br>
 **UT EID:** grc695
 <br>
@@ -33,7 +33,9 @@ This directory contains all my exam submissions, each of which is a folder prope
 For questions and troubleshooting, please contact:
 
 Grayson Coker
+<br>
 graysoncoker@utexas.edu
+<br>
 Hook 'em
 
 >I have not failed. I've just found 10,000 ways that won't work.
