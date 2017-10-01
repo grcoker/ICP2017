@@ -1,13 +1,21 @@
 # ICP2017 - Introduction to Computer Programming (Fall 2017)
 <br>
 **Name:** Grayson Coker
-**UT EID:** grc69
+<br>
+**UT EID:** grc695
+<br>
 **Email:** graysoncoker@aol.com
+<br>
 **Department:** [Department of Aerospace Engineering](http://www.ae.utexas.edu)
+<br>
 **University:** [University of Texas at Austin](http://utexas.edu/)
-**Level:** Undergraduate -\<Sophomore(2nd year)
+<br>
+**Level:** Undergraduate -\<Sophomore(2nd year)>
+<br>
 **ICP Class Position:** Student
+<br>
 **Course Webpage:** <http://www.shahmoradi.org/ICP2017F/>
+<br>
 **Photo:**
 
 !(https://www.facebook.com/photo.php?fbid=10208261271555612&set=t.1589960204&type=3&theater)
