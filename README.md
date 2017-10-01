@@ -1,8 +1,8 @@
 # ICP2017 - Introduction to Computer Programming (Fall 2017)
 <br>
 **Name:** Grayson Coker
-**UT EID:** \<grc695>
-**Email:** \<graysoncoker@aol.com>
+**UT EID:** grc69
+**Email:** graysoncoker@aol.com
 **Department:** [Department of Aerospace Engineering](http://www.ae.utexas.edu)
 **University:** [University of Texas at Austin](http://utexas.edu/)
 **Level:** Undergraduate -\<Sophomore(2nd year)
@@ -24,9 +24,9 @@ This directory contains all my exam submissions, each of which is a folder prope
 
 For questions and troubleshooting, please contact:
 
-\<Grayson Coker>
-\<graysoncoker@utexas.edu>
-\<Hook 'em>
+Grayson Coker
+graysoncoker@utexas.edu
+Hook 'em
 
 >I have not failed. I've just found 10,000 ways that won't work.
 >[Thomas Edison](https://en.wikipedia.org/wiki/Thomas_Edison){:target="_blank"}
