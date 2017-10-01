@@ -1,6 +1,6 @@
 # ICP2017 - Introduction to Computer Programming (Fall 2017)
 <br>
-**Name:** <Grayson> <Coker>
+**Name:** Grayson Coker
 **UT EID:** \<grc695>
 **Email:** \<graysoncoker@aol.com>
 **Department:** [Department of Aerospace Engineering](http://www.ae.utexas.edu)
