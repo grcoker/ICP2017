@@ -1,6 +1,6 @@
 # ICP2017 - Introduction to Computer Programming (Fall 2017)
 <br>
-**Name:** Grayson Coker
+**Name: \<Grayson Coker>
 <br>
 **UT EID:** grc695
 <br>
